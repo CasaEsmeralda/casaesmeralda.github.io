@@ -29,7 +29,7 @@ img {
 #main-header {
     background: #6FDE49;
     color: white;
-    height: 135px;
+    height: 100px;
     
     width: 100%;
     left: 0;
@@ -43,15 +43,22 @@ img {
     float: left;
     padding: 15px 0 0 20px;
     text-decoration: none;
-    color: #000;
+    max-width: 100%;
+    width: 15%;
 }
 .menu{
     float: right;
-    line-height: 135px;
+    line-height: 100px;
+    padding-right: 60px;
 }
 .menu ul{
   display: flex;
   list-style: none;
+
+}
+.menu li{
+    display: flex;
+    list-style: none;
 }
 .menu a{
   display: block;

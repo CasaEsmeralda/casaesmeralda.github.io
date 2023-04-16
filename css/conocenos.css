@@ -50,6 +50,8 @@ img {
     float: left;
     padding: 15px 0 0 20px;
     text-decoration: none;
+    max-width: 100%;
+    width: 15%;
 }
 .menu{
     float: right;
