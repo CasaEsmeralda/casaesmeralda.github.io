@@ -61,6 +61,10 @@ nav a:hover {
   height: 450px;
 }
 
+.slide0{
+  background-image: url(../imagenes/house3.jpg);
+}
+
 .slide1{
   background-image: url(../multimedia/promocionales/promo1.jpg);
 }
@@ -74,7 +78,7 @@ nav a:hover {
 }
 
 .slide4{
-  background-image: url(../imagenes/house2.jpeg);
+  background-image: url(../multimedia/promocionales/promo4.jpg);
 }
 
 .slickdots li button::before{
